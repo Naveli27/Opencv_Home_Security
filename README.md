@@ -1,4 +1,3 @@
-
 # 🔐 AI Home Security System
 
 A real-time AI-powered home security camera system that uses face recognition and an LLM-based interrogation flow to identify unknown visitors — with SMS alerts and a Flask web dashboard.

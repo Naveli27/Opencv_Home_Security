@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alice",
+    "relation": "Daughter",
+    "likes": ["cats", "piano"],
+    "rooms_access": ["living room", "bedroom"]
+  },
+  {
+    "name": "Bob",
+    "relation": "Brother",
+    "likes": ["football", "coffee"],
+    "rooms_access": ["kitchen"]
+  }
+]
